@@ -4,20 +4,20 @@ Un juego simple en consola donde el jugador debe adivinar un número generado al
 
 ---
 
-## 📌 Descripción
+##  Descripción
 
 El programa selecciona un número secreto entre 1 y 100.
 El jugador tiene un número limitado de intentos para adivinarlo.
 
 Después de cada intento, el juego indica si el número ingresado es:
 
-* 🔼 Muy alto
-* 🔽 Muy bajo
-* ✅ Correcto
+* Muy alto
+   Muy bajo
+* Correcto
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
 
@@ -39,14 +39,14 @@ python juego.py
 
 ---
 
-## 🧠 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 * Python 3
 * Módulo `random`
 
 ---
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 * Generación de número aleatorio
 * Validación de entrada del usuario
@@ -55,7 +55,7 @@ python juego.py
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 .
@@ -65,7 +65,7 @@ python juego.py
 
 ---
 
-## 🔧 Posibles mejoras
+## Posibles mejoras
 
 * Agregar niveles de dificultad
 * Sistema de puntaje
@@ -75,13 +75,8 @@ python juego.py
 
 ---
 
-## 🤝 Contribuciones
+## Contribuciones
 
 Las contribuciones son bienvenidas.
 Podés hacer un fork del proyecto y enviar un pull request.
 
----
-
-## 📄 Licencia
-
-Este proyecto es de uso libre para aprendizaje.
